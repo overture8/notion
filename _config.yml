@@ -6,6 +6,7 @@ markdown: redcarpet
 pygments: true
 logo: false
 paginate: 15
+baseurl: /notion
 
 # Details for the RSS feed generator
 url:            'blog url'
