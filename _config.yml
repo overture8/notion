@@ -1,13 +1,14 @@
-name: Your New Jekyll Site
-description: Blogging about stuffs
-meta_description: "Your New Jekyll Site, Blogging about stuffs"
+name: Notion
+description: Thoughts of me, Phil McClure
+meta_description: "Notion, Blog of Phil McClure"
 
 markdown: redcarpet
 pygments: true
 logo: false
 paginate: 15
 baseurl: /notion
+permalink: /:year/:month/:day/:title
 
 # Details for the RSS feed generator
 url:            'blog url'
-author:         'Your Name'
+author:         'Phil McClure'
